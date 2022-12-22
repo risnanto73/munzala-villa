@@ -460,7 +460,7 @@ section {
 
 .portfolio .portfolio-item figure:hover .link-preview {
   opacity: 1;
-  left: calc(50% - 44px);
+  left: calc(50% - 18px);
 }
 
 .portfolio .portfolio-item figure:hover .link-details {
