@@ -296,7 +296,7 @@ section {
 }
 
 .counts .count-box span {
-  font-size: 34px;
+  font-size: 30px;
   display: block;
   font-weight: 600;
   color: #124364;
@@ -306,7 +306,7 @@ section {
   padding: 0;
   margin: 0;
   font-family: "Raleway", sans-serif;
-  font-size: 14px;
+  font-size: 10px;
 }
 
 .services .icon-box {
